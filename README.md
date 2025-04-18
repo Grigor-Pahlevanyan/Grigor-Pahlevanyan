@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grigor-Pahlevanyan
-- 👀 I’m interested in robotics engineering and machine learning. Of course also AI :D
+- 👀 I’m interested in robotics engineering and machine learning.
 - 🌱 I’m currently studying Mechatronics Engineering at McMaster University.
 - 💞️ I’m looking forward to exploring the robotics field in engineering.
 - 📫 You can contact me at: pahlevag@mcmaster.ca or follow me on Linkedin https://www.linkedin.com/in/grigorpahlevanyan/
