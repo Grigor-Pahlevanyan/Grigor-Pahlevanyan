@@ -99,45 +99,11 @@ I'm a passionate **Mechatronics Engineer** and **Electrical Designer** currently
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Smart Safety Seat](https://github-readme-stats.vercel.app/api/pin/?username=Grigor-Pahlevanyan&repo=Smart-Safety-Seat&theme=tokyonight)](https://www.behance.net/gallery/165815539/Smart-Safety-Seat)
-[![Solar Car Electrical](https://github-readme-stats.vercel.app/api/pin/?username=Grigor-Pahlevanyan&repo=Solar-Car-Electrical&theme=tokyonight)](https://www.behance.net/gallery/163723257/High-Voltage-Electrical-Architecture-%28Solar-Car%29)
-
-</div>
-
 ### 🛡️ **Smart Safety Seat**
 Revolutionary automotive safety system integrating **LiDAR technology** and **machine learning algorithms** for real-time monitoring and enhanced passenger protection.
 
 ### ⚡ **Power Management System**
 Advanced power electronics design for high-voltage applications, featuring intelligent energy distribution and safety-critical control systems.
-
----
-
-## 🎯 What I'm Working On
-
-```python
-class GrigorPahlevanyan:
-    def __init__(self):
-        self.current_role = "Electrical Designer @ L3Harris"
-        self.education = "Mechatronics Engineering @ McMaster University"
-        self.interests = ["Robotics", "AI/ML", "Power Electronics", "Embedded Systems"]
-        self.current_projects = [
-            "Advanced Battery Management Systems",
-            "AI-Powered Meeting Assistant",
-            "Autonomous Vehicle Electronics"
-        ]
-    
-    def get_next_goals(self):
-        return [
-            "🤖 Advanced robotics and autonomous systems",
-            "🧠 AI/ML applications in engineering",
-            "⚡ Next-generation power electronics",
-            "🌱 Sustainable energy solutions"
-        ]
-```
 
 ---
 
